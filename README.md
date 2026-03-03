@@ -69,8 +69,9 @@ This project aligns with industry best practices and regulatory frameworks, incl
 
 ---
 
-### **Author**   
-Olanipekun Babatunde
+## Author
+**Olanipekun Babatunde**  
+Cybersecurity Analyst
 
 
 
